@@ -1,30 +1,10 @@
-## 👋 Hi, I'm bvtcovn!
+<h1 align="center">Hi 👋, I'm bvtcovn</h1>
+<h3 align="center">A software engineer</h3>
 
-<!--
-**bvtcovn/bvtcovn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently Oxford Interactive
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **JavaScript and Node.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [bvtcovn.brdh.link](bvtcovn.brdh.link)
 
-### 😀 Hey there! My name is bvtcovn. An Software Engineer loving to make AI Tools that are loving, and good.
-I'm also an Roblox Developer. I program games.
-
-### Fun fact: I'm chill.
-
-### Projects:
-- OxManager; An Discord Bot for (Roblox) Oxford Response Private Servers.
-
-### Misc
-I'm looking to help with other fellow developers to build amazing projects!
-
-### Contact
-Discord: bvtc01n
+- 📫 How to reach me **earthdays@brdh.link**
