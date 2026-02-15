@@ -8,5 +8,3 @@
 - 👨‍💻 All of my projects are available at [bvtcovn.brdh.link](bvtcovn.brdh.link)
 
 - 📫 How to reach me **earthdays@brdh.link**
-
-@braidenhxyz Affiliated with Braiden Hill
