@@ -18,8 +18,13 @@ Here are some ideas to get you started:
 ### 😀 Hey there! My name is bvtcovn. An Software Engineer loving to make AI Tools that are loving, and good.
 I'm also an Roblox Developer. I program games.
 
-### ⚡ Fun fact: I'm chill.
+### Fun fact: I'm chill.
 
-🔭 I’m currently working on ...
-
+### Projects:
 - OxManager; An Discord Bot for (Roblox) Oxford Response Private Servers.
+
+### Misc
+I'm looking to help with other fellow developers to build amazing projects!
+
+### Contact
+Discord: bvtc01n
