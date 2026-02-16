@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm bvtcovn</h1>
 <h3 align="center">A software engineer</h3>
 
-- 🔭 I’m currently working on Oxford Interactive
+- 🔭 I’m currently working on OxManager & HarveyHosting
 
 - 🌱 I’m currently learning **JavaScript and Node.js**
 
